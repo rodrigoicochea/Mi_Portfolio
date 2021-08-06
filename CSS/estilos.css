@@ -1,0 +1,40 @@
+body{
+    background-color: darkgrey;
+}
+
+div.header{
+background-color: green;
+}
+
+div.content{
+background-color: indigo;
+}
+
+h1{
+    color:black;
+    background-color: lightgray;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+h2{
+    color:rgb(104, 99, 99);
+    text-align: center;
+
+}
+h3{
+    color:rgb(245, 37, 37);
+    text-align: center;
+}
+p{ 
+    color:black; 
+    background-color: lightgray;
+    border: 2px solid rgb(151, 137, 137);
+    border-radius: 10px;
+}
+
+img{
+    width: 435px;
+    border: 4px solid gray;
+    border-radius: 15px;
+}
